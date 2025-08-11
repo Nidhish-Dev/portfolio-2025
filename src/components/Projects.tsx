@@ -26,28 +26,28 @@ const Projects: React.FC = () => {
       name: "FormiSiq",
       description: "A dynamic form-building platform with real-time validation and responsive design.",
       techStack: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
-      url: "https://formisiq.example.com",
+      url: "https://formistiq.vercel.app/",
     },
     {
       number: "02",
       name: "Bento",
       description: "A modern bento-grid layout showcasing modular UI components with animations.",
       techStack: ["Next.js", "CSS Grid", "Framer Motion"],
-      url: "https://bento.example.com",
+      url: "https://bento-clone-nr.vercel.app/",
     },
     {
       number: "03",
       name: "Hello Api",
       description: "A RESTful API for seamless integration with scalable backend services.",
       techStack: ["Express.js", "MongoDB", "TypeScript"],
-      url: "https://helloapi.example.com",
+      url: "https://hello-api-sage.vercel.app/",
     },
     {
       number: "04",
       name: "Cuvette Clone",
       description: "A job board platform clone with advanced search and filtering capabilities.",
       techStack: ["React", "Redux", "Tailwind CSS", "Firebase"],
-      url: "https://cuvetteclone.example.com",
+      url: "https://cuvette-job.vercel.app/",
     },
   ];
 

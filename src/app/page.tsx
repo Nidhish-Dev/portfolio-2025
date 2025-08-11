@@ -106,9 +106,9 @@ export default function Home() {
             variants={contentVariants}
           >
             {[
-              { href: "https://www.linkedin.com/in/nidhish-rathore", Icon: FaLinkedin, label: "LinkedIn" },
-              { href: "https://github.com/nidhish-rathore", Icon: FaGithub, label: "GitHub" },
-              { href: "https://www.instagram.com/nidhish-rathore", Icon: FaInstagram, label: "Instagram" },
+              { href: "https://www.linkedin.com/in/nidhish-rathore-b2b9bb325/", Icon: FaLinkedin, label: "LinkedIn" },
+              { href: "https://github.com/Nidhish-Dev", Icon: FaGithub, label: "GitHub" },
+              { href: "https://www.instagram.com/_the_nidhish?igsh=MWF4cWJzZ2VhbWtqNg%3D%3D&utm_source=qr", Icon: FaInstagram, label: "Instagram" },
             ].map(({ href, Icon, label }) => (
               <motion.a
                 key={label}
